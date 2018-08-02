@@ -7,16 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- 메인을 추가함 -  -->
-	<div>
-		메인
-	</div>
+<h1>zzzz</h1>
 </body>
 </html>
-
-
-
-
-
-
-
